@@ -1,5 +1,5 @@
 main{
-    height: 90vh;
+    height: 917px;
     margin-bottom:145px ;
 
 
@@ -7,7 +7,7 @@ main{
    
 
     #projects{
-        padding-inline:120px ;
+        
         
         header{
             
@@ -19,7 +19,7 @@ main{
             
             h2{
     
-                color: var(--primary);
+                
                 margin-bottom: 8px;
             }
 
@@ -29,7 +29,7 @@ main{
 
             h2,p{
                 position: relative;
-                bottom: 1px;
+                right: 9px;
             }
             
             

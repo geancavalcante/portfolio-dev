@@ -2,7 +2,7 @@
 #info{
     background-image:var(--bg-image-intro);
     background-size: cover;
-    height: 100vh;
+    height: 750px;
 }
 
 .conteiner{
@@ -44,9 +44,7 @@
     grid-column: 4/8;
     margin-bottom: 8px;
 
-    strong{
-        color:var(--primary);
-    }
+   
 
    }
    h1{
