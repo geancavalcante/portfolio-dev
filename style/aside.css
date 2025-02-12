@@ -1,5 +1,50 @@
 aside{
     height: 480px;
     background-color: var(--gray-100);
+
+    
+
+    section{
+
+        header{
+
+            padding-top: 88px;
+            margin-bottom: 56px;
+
+            h2{
+                margin-bottom: 8px;
+            }
+
+        }
+
+        div{
+            column-gap: 24px;
+        }
+
+        .card{
+            width:330px;
+            height: 190px;
+            border: 2px solid var(--gray-200);
+            border-radius: 8px;
+
+            
+
+            padding: 20px;
+            
+            img{
+                margin-bottom: 20px;
+            }
+
+            h4{
+                margin-bottom: 8px;
+            }
+
+        }
+
+        
+        
+   
+
+    }
     
 }
