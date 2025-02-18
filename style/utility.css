@@ -23,6 +23,14 @@
     justify-self: center;
 }
 
+.align-itens-center{
+    align-items: center;
+}
+
+.align-self-baseline{
+    align-items: baseline;
+}
+
 .align-self-end{
     align-self: end;
 
